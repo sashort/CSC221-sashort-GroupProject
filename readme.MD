@@ -1,8 +1,12 @@
 # CSC221-sashort-GroupProject
 Group Project for CSC221 2022 SP
+
 __Owner:__ sashort@my.waketech.edu
+
 __Webscrapped URL:__ https://www.x-rates.com/table/?from=USD&amount=1
+
 __Collaborator:__ James Diller (jwdiller@my.waketech.edu) __Accepted__
+
 __Description:__ Retrieves the most recent currency exchange rates for the US Dollar.
 
 __Project Milestones__
