@@ -1,5 +1,8 @@
 # CSC221-sashort-GroupProject
 Group Project for CSC221 2022 SP
+<br/>
 Owner: sashort@my.waketech.edu
-Webscraped URL: 
+</br>
+Webscraped URL:
+<br/> 
 Collaborator: jwdiller@my.waketech.edu
