@@ -5,7 +5,7 @@ __Owner:__ sashort@my.waketech.edu
 
 __Webscrapped URL:__ https://www.x-rates.com/table/?from=USD&amount=1
 
-__Collaborator:__ James Diller (jwdiller@my.waketech.edu) __Accepted__
+__Collaborator:__ James Diller (jwdiller@my.waketech.edu) __ACCEPTED__
 
 __Description:__ Retrieves the most recent currency exchange rates for the US Dollar.
 
